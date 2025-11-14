@@ -1,0 +1,54 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# Android Studio
+.idea/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+*.swp
+*~
+.DS_Store
+
+# Android
+local.properties
+.classpath
+.project
+.settings/
+bin/
+gen/
+.gradle
+proguard-rules.pro
+gradle.properties
+gradlew
+gradlew.bat
+
+# Kotlin
+*.kotlin_builtins
+*.class
+
+# Java
+*.log
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE
+.vscode/
+*.code-workspace
+.vim/
+*.vim
+
+# Misc
+.env
+.env.local
+secrets.properties
